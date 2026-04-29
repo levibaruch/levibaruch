@@ -3,6 +3,8 @@
 Researcher in Human Technology Interaction at Eindhoven, currently working on reproducability and open science. Specifically whether published datasets are actually reusable, and building tools to find out.
 Experienced with making and training supervised machine learning models and making natural language data machine parsable.
 
+Outside research: competitive (but still amateur) ballroom dancer and photographer — [levi.baruch.nl](https://levi.baruch.nl)
+
 ---
 
 ## Projects
