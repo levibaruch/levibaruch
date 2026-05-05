@@ -9,7 +9,7 @@ Outside research: competitive (but still amateur) ballroom dancer and photograph
 
 ## Projects
 
-**[metacheck-datacheck](https://github.com/levibaruch/metacheck-datacheck)** *(WIP)*  
+**[DataCheck](https://github.com/levibaruch/datacheck)** *(WIP)*  
 DataCheck then takes any quantitative repository and classifies every file — determining what role each file plays (data, codebook, analysis script, output, etc.) using only filenames and ccontext. The result is a structured, machine-readable index of what's actually in each repository, reconstructed into PsychDS, an established standard.
 
 **[PsychTrove](https://github.com/levibaruch/PsychTrove)** *(WIP, not yet deployed)*  
