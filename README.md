@@ -11,6 +11,9 @@ Outside research: competitive (but still amateur) ballroom dancer and photograph
 **Dance-Face** *(Closed Source)*  
 GDPR compliant web application that allows dancers to find their images based on a supplied image of themselves.
 
+**TNO-Panoptes** *(Proprietary)*
+Machine learning segmentation solution to extract Perclos (Percentage of Eye closed) data from the _Pupil Labs_ PupilCore eye tracker.
+
 **[DataCheck](https://github.com/levibaruch/datacheck)** *(WIP)*  
 DataCheck then takes any quantitative repository and classifies every file — determining what role each file plays (data, codebook, analysis script, output, etc.) using only filenames and ccontext. The result is a structured, machine-readable index of what's actually in each repository, reconstructed into PsychDS, an established standard.
 
