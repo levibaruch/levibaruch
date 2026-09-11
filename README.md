@@ -7,7 +7,7 @@ Outside research: competitive (but still amateur) ballroom dancer and photograph
 
 ## Projects
 **Dance-Face** *(Closed Source)*  
-GDPR compliant web application that allows dancers to find their images based on a supplied image of themselves. Besides this, I am working on an segmentation model that can distinguish between the latin (rumba, cha-cha-cha, samba) and standard (waltz, tango, quickstep) dances based on pose vectors and image information.
+GDPR compliant web application that allows dancers to find their images based on a supplied image of themselves. Besides this, I am working on an classification model that can distinguish between the latin (rumba, cha-cha-cha, samba) and standard (waltz, tango, quickstep) dances based on pose vectors and image information.
 
 **TNO-Panoptes** *(Proprietary)*
 U-Net segmentation solution to extract Perclos (Percentage of Eye closed) data from the _Pupil Labs_ PupilCore eye tracker video information. From this, blink features can be extracted which give an indication into circadian fatigue. 
